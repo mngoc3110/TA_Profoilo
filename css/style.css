@@ -261,6 +261,7 @@ body.dark {
   color: #333;
   margin-bottom: 40px;
   max-width: 720px;
+  text-align:justify;
 }
 
 .more-button {
